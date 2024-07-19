@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+haystack
+transformers
+datasets
+llama-index
+langchain
+weaviate-client
